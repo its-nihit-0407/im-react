@@ -1,10 +1,11 @@
 
 
 function App() {
+  const username = "Nihit"
 
   return (
     <>
-    <h1>Vite</h1>
+    <h1>Vite {username}</h1>
     </>
   );
 }
